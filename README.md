@@ -1,5 +1,5 @@
 # CAR-SALES-DASHBOARD1
-
+<img width="490" alt="car sales dashboard" src="https://github.com/user-attachments/assets/54086131-f8e5-4501-a987-14b3f7b3db9c">
 "CAR SALES DASHBOARD" includes various visualisations summarizing sales data.Here is an analysis of a dshboard:
 
 1. Brand vs Seller Type in a Year
